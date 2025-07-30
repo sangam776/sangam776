@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sangam bind</h1>
 <h3 align="center">A passionate (AI) engineer from India</h3>
-<IMG src= "https://media.giphy.com/media/K5kfQEx..."alt="">
+<IMG src=https://www.google.com/imgres?q=animated%20technical%20picher&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fblockchain-technology-cartoon-illustration_23-2151572175.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fanimated-technology-illustrations&docid=WKClAg5ND8T9KM&tbnid=Ns-mQUzGWueHrM&vet=12ahUKEwidi5eni-WOAxUklFYBHU2DATYQM3oECBoQAA..i&w=626&h=434&hcb=2&ved=2ahUKEwidi5eni-WOAxUklFYBHU2DATYQM3oECBoQAAalt="">
 - 🌱 I’m currently learning **DSA, web development**
 
 - 💬 Ask me about **python**

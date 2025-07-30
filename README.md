@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm sangam bind</h1>
 <h3 align="center">A passionate (AI) engineer from India</h3>
-<IMG SRC = "https://media.giphy.com/media/K5kfQEx...
-"ali ="">
+<IMG SRC = "https://media.giphy.com/media/K5kfQEx..."ali ="">
 - 🌱 I’m currently learning **DSA, web development**
 
 - 💬 Ask me about **python**
